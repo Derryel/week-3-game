@@ -1,1 +1,0 @@
-<?php includes_once("portfolio2"); ?>
